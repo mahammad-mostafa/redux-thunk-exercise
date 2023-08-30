@@ -1,0 +1,10 @@
+.item {
+  padding: 20px;
+  background-color: var(--border-color);
+  border-radius: 5px;
+}
+
+.item:hover {
+  color: var(--dark-color);
+  background-color: var(--bright-color);
+}

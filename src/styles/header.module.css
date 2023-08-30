@@ -1,0 +1,14 @@
+.header {
+  height: 80px;
+  position: fixed;
+  top: 0;
+  inset-inline: 0;
+  background-color: var(--dark-color);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.title {
+  line-height: 80px;
+  text-align: center;
+  color: var(--secondary-color);
+}
