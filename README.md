@@ -2,7 +2,7 @@
 
 <!-- TITLE -->
 
-# 🏷️ Redux Thunk Exercise App
+# 🏷️ Redux Thunk Exercise
 
 This is the fifth project of the third module in the **Microverse** program.
 <br/>
